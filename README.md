@@ -4,7 +4,7 @@ Overview
 
 This project aims to develop a machine learning model to predict the speed of an electric motor based on sensor data. The dataset used contains real-world measurements from a Permanent Magnet Synchronous Motor (PMSM), including features such as voltage, current, and temperature.
 
-##### Dataset
+### Dataset
 
 The dataset consists of sensor readings collected from PMSM motors and includes the following features:
 
@@ -18,11 +18,11 @@ Torque: Mechanical torque applied to the motor
 
 Speed: Rotational speed of the motor (target variable)
 
-Objective
+### Objective
 
 The objective of this project is to train a predictive model that accurately estimates motor speed given various input features.
 
-#### Technologies Used
+### Technologies Used
 
 Python: Programming language
 
@@ -36,7 +36,7 @@ Scikit-learn: Machine learning algorithms
 
 TensorFlow/PyTorch (if deep learning models are used)
 
-#### Model Building
+### Model Building
 
 The project explores multiple machine learning models, including:
 
@@ -54,7 +54,7 @@ Multi Layer Perceptron (MLP)
 
 Decision Tree
 
-#### Steps Involved:
+### Steps Involved:
 
 Data Preprocessing
 
